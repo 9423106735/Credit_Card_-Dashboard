@@ -1,2 +1,4 @@
-# Credit_Card_-Dashboard
-Power BI dashboard
+Project Overview - This project focused on building interactive Power BI dashboards to analyze credit card customers and transaction data. The main goal was to provide a weekly financial status report that helps businesses understand customer behavior, spending patterns, and revenue trends.The project required creating two dashboards:Credit Card Customer Dashboard,Credit Card Transaction Dashboard.These dashboards help stakeholders analyze customer demographics, credit card usage, and transaction activity using interactive filters and visualizations.
+Tools and Technologies Used - Power Bi,Power query,Dax,excel
+Challenges Faced - Data Quality Issues, Data relation,DAX Calculations,Dashboard Design
+Recommendations- Target High-Value Customers,Personalized Credit Offers,Improve Category-Based Promotions,Monitor Weekly Performance,Enhance Customer Engagement
